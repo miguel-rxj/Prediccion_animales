@@ -1,0 +1,21 @@
+# Entorno virtual (cada persona crea el suyo)
+.venv/
+venv/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Editor / sistema operativo
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Archivos locales y temporales
+.env
+*.log
+*.bak
+
+# Carpeta de herramientas de IA (opcional, no es parte de tu app)
+.agents/
